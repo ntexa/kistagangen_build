@@ -13,9 +13,9 @@ To run the visualisation on iphone using Xcode do the following:
 3. Connect your iOS device to your computer. 
 4. Build and Run the project
 5. Once Xcode opens, if you haven't configured it, you are likely to have two Dependencies errors. To solve them, do the following: 
-	a. Go to Settings>Accounts and Add an Apple Id 
-	b. On the Apple ID info go to Manage Certificates and create iOS development certificate. 
-	c. Go to the Project General Settings and in Signing add your team (Personal team with your name).
+   a. Go to Settings>Accounts and Add an Apple Id.
+   b. On the Apple ID info go to Manage Certificates and create iOS development certificate. 
+   c.Go to the Project General Settings and in Signing add your team (Personal team with your name).
 7. Build and run the project again. Wait until it finishes. 
 8. Go to your device and on Settings>General>Device Management>Developer Apps choose to trust the app's certificate. 
 9. Run
